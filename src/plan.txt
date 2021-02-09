@@ -1,0 +1,16 @@
+1. Build a form where a user can enter a contact
+    - Name
+    - Email
+    - Phone Number
+    - Files involved: ContactForm.js, call the function in main.js
+
+
+2. Make the save button work on the contact form
+    - Listen for a click
+    - Figure out what the user typed into the input fields
+    - Send that info to the database
+    - Reprint all of our contacts
+    - Files involved: ContactProvider.js, single contact component, ContactList.js
+
+3. List all the contacts that are currently in the database on page load
+    - Files involved: same three as above

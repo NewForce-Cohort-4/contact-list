@@ -1,0 +1,28 @@
+{
+  "people": [
+    {
+      "name": "Hoagie",
+      "phone": "1-800-Hoagie",
+      "email": "hoagie@hoagi.com",
+      "id": 1
+    },
+    {
+      "name": "Edgar",
+      "phone": "99999",
+      "email": "kldafjldk@edgar.com",
+      "id": 2
+    },
+    {
+      "name": "Mia",
+      "phone": "mia@mia.com",
+      "email": "mia",
+      "id": 3
+    },
+    {
+      "name": "Gitty",
+      "phone": "gitty@gitty.com",
+      "email": "gitty",
+      "id": 4
+    }
+  ]
+}
